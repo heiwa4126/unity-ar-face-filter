@@ -1,7 +1,7 @@
-# unity-ar-project
+# unity-ar-face-filter
 
-(2024-01-10)
+(2024-01-11)
 
-「モバイルデバイスでAR」のMission 1
- "[Configure your AR development environment - Unity Learn](https://learn.unity.com/tutorial/configure-your-ar-development-environment?uv=2021.3&pathwayId=63e3a4c1edbc2a344bfe21d8&missionId=63f63a3bedbc2a663dc6ffde#633c1808edbc2a1b885c6705)"
+「モバイルデバイスでAR」のMission 2
+ "[Set up a face tracking project - Unity Learn](https://learn.unity.com/tutorial/set-up-a-face-tracking-project?pathwayId=63e3a4c1edbc2a344bfe21d8&missionId=63e3a840edbc2a169e742f89&projectId=633b0ad5edbc2a74a90fb74d#633cdf17edbc2a3cba4c6575)"
  のプロジェクト
