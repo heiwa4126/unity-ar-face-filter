@@ -351,6 +351,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_CrazyEyes
       objectReference: {fileID: 0}
+    - target: {fileID: 6703434498809901987, guid: e1ecc5d8ad4385a4688bbf80596ee6f4,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: acb789ad21a01ce40a78fb2a0041af28, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e1ecc5d8ad4385a4688bbf80596ee6f4, type: 3}
 --- !u!4 &4647576402437387567 stripped
